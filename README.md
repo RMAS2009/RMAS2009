@@ -6,20 +6,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmas2009&label=Profile%20views&color=0e75b6&style=flat" alt="rmas2009" /> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **Counterfoil's Production Level Project**
 
-- 🌱 I’m currently learning **Industry Level Basic Projects, System Design, SDLC.**
+- 🌱 I’m currently learning **Django, Azure, Redis, System Design, SDLC.**
   
 - 📫 How to reach me **raufurmukit492@gmail.com**
 
  ## 🚀 About Me
 
 
-I am a fresh graduate in Information and Communication Technology (CGPA: 3.40/4.00) with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
+I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
 
 🔹 Competitive Programming & DSA: Solved 350+ LeetCode problems (Top 51.47% with 10 Badges) and 800+ Codeforces problems, refining my skills in Array, Linked List, Sliding Windows, Graphs, Trees, DP, and Advanced Algorithms.
 
-🔹 Tech Stack: NodeJS | ExpressJS | MongoDB | MySQL | JavaScript | Git | System Design
+🔹 Tech Stack: Django | NodeJS | ExpressJS | PostgreSQL | MongoDB | MySQL | JavaScript | Git | System Design
 
 🔹 Continuous Learning: Currently enhancing my expertise in enterprise application development and cloud-native solutions.
 

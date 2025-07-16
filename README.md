@@ -27,7 +27,7 @@ Excited to contribute my problem-solving mindset and backend expertise to impact
 
 ## 💡 Skills
 - Problem Solving
-- Full-Stack Development
+- Backend Development
 - Data Structure and Algorithm Design
 - Project Management
 - System Design

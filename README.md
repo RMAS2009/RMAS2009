@@ -15,13 +15,24 @@
  ## 🚀 About Me
 
 
-I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
+I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in Django, NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
 
 🔹 Competitive Programming & DSA: Solved 350+ LeetCode problems (Top 51.47% with 10 Badges) and 800+ Codeforces problems, refining my skills in Array, Linked List, Sliding Windows, Graphs, Trees, DP, and Advanced Algorithms.
 
 🔹 Tech Stack: Django | NodeJS | ExpressJS | PostgreSQL | MongoDB | MySQL | JavaScript | Git | System Design
 
 🔹 Continuous Learning: Currently enhancing my expertise in enterprise application development and cloud-native solutions.
+
+Till now as a Software Engineer Intern in Ternary Solutions Inc.
+
+–Contributed to the production-level development of Counterfoil by implementing Finance feature, delivering 15%
+of the backend functionality with accurate financial data handling and clean coding practices.
+
+–Implemented Celery to automate monthly customer bill generation, improving backend efficiency and ensuring a
+clean, scalable system
+
+–Achieved 90%+ test coverage of the Finance module by utilizing Pytest with mocking and CI integration, ensuring
+accuracy, reliability, and maintainability of the system.
 
 Excited to contribute my problem-solving mindset and backend expertise to impactful projects in the tech industry! 🚀
 

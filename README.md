@@ -24,7 +24,7 @@ I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) wi
 🔹 Continuous Learning: Currently enhancing my expertise in enterprise application development and cloud-native solutions.
 
 
-🔹Currently, I'm working as a Software Engineer (Intern) at Counterfoil ,  a subsidiary of Ternary Solutions Inc.
+🔹Currently, I'm working as a Software Engineer (Intern) at 	𝐂𝐨𝐮𝐧𝐭𝐞𝐫𝐟𝐨𝐢𝐥, 𝐚 𝐬𝐮𝐛𝐬𝐢𝐝𝐢𝐚𝐫𝐲 𝐨𝐟 𝐓𝐞𝐫𝐧𝐚𝐫𝐲 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐈𝐧𝐜.
 
 This internship is giving me the opportunity to apply my academic knowledge in real-world projects, strengthen my technical skills, and learn from an amazing team of professionals
 

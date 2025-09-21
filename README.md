@@ -2,17 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Raufur Mukit</h1>
 
-<img align="right" alt="Coding"  width="350" src="profile.png">
+<img align="right" alt="Coding"  width="300" src="profile.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmas2009&label=Profile%20views&color=0e75b6&style=flat" alt="rmas2009" /> </p>
 
+- 🌱 Currently transitioning from **Intern** to a **full-fledged Software Engineer** 
 - 🔭 I’m currently working on **Counterfoil's Production Level Project**
-
 - 🌱 I’m currently learning **Django, Azure, Redis, System Design, SDLC.**
-  
+- ⚡ Worked on **finance modules, booking validation services, and workflow automation**  
+- 📚 Always eager to learn and adapt to new stacks & tools  
+- 🤝 Open to collaborations on impactful projects   
 - 📫 How to reach me **raufurmukit492@gmail.com**
-
+<br clear="right"/>   <!-- 👈 This line clears the floating image -->
  ## 🚀 About Me
 
 

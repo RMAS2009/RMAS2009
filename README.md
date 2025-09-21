@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4D1BAQHK_XcVi1f4MQ/company-background_10000/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=-457AvBNGV35uGBE4lMo4WKmuOujnJS8hdimTJP6HiM)
 <h1 align="center">Hi 👋, I'm Raufur Mukit</h1>
-<h3 align="center">A passionate Backend Developer from Bangladesh</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 

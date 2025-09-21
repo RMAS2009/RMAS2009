@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D1BAQHK_XcVi1f4MQ/company-background_10000/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=-457AvBNGV35uGBE4lMo4WKmuOujnJS8hdimTJP6HiM)
+![MasterHead](Mukit.png)
 <h1 align="center">Hi 👋, I'm Raufur Mukit</h1>
 
 

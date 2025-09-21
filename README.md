@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Raufur Mukit</h1>
 
-<img align="right" alt="Coding" height="400" width="400" src="profile.png">
+<img align="right" alt="Coding"  width="500" src="profile.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmas2009&label=Profile%20views&color=0e75b6&style=flat" alt="rmas2009" /> </p>

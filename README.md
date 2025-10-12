@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmas2009&label=Profile%20views&color=0e75b6&style=flat" alt="rmas2009" /> </p>
 
-- 🌱 Currently transitioning from **Intern** to a **full-fledged Software Engineer** 
+- 🌱 Currently transitioning as a **full-fledged Software Engineer** 
 - 🔭 I’m currently working on **Counterfoil's Production Level Project**
-- 🌱 I’m currently learning **Django, Azure, Redis, System Design, SDLC.**
+- 🌱 I’m currently exploring **Django, FastAPI, Azure, Redis, System Design, SDLC.**
 - ⚡ Worked on **finance modules, booking validation services, and workflow automation**  
 - 📚 Always eager to learn and adapt to new stacks & tools  
 - 🤝 Open to collaborations on impactful projects   
@@ -27,11 +27,9 @@ I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) wi
 🔹 Continuous Learning: Currently enhancing my expertise in enterprise application development and cloud-native solutions.
 
 
-🔹Currently, I'm working as a Software Engineer (Intern) at 	𝐂𝐨𝐮𝐧𝐭𝐞𝐫𝐟𝐨𝐢𝐥, 𝐚 𝐬𝐮𝐛𝐬𝐢𝐝𝐢𝐚𝐫𝐲 𝐨𝐟 𝐓𝐞𝐫𝐧𝐚𝐫𝐲 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐈𝐧𝐜.
+🔹Currently, I'm working as a Software Engineer  at 	𝐂𝐨𝐮𝐧𝐭𝐞𝐫𝐟𝐨𝐢𝐥, 𝐚 𝐬𝐮𝐛𝐬𝐢𝐝𝐢𝐚𝐫𝐲 𝐨𝐟 𝐓𝐞𝐫𝐧𝐚𝐫𝐲 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐈𝐧𝐜.
 
-This internship is giving me the opportunity to apply my academic knowledge in real-world projects, strengthen my technical skills, and learn from an amazing team of professionals
-
-Till now as a Software Engineer Intern in Ternary Solutions Inc.
+Till now as a Software Engineer in Ternary Solutions Inc.
 
 –Contributed to the production-level development of Counterfoil by implementing Finance feature, delivering 15%
 of the backend functionality with accurate financial data handling and clean coding practices.

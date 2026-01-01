@@ -6,8 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmas2009&label=Profile%20views&color=0e75b6&style=flat" alt="rmas2009" /> </p>
-
-- 🌱 Currently transitioning as a **full-fledged Software Engineer** 
+ 
 - 🔭 I’m currently working on **Counterfoil's Production Level Project**
 - 🌱 I’m currently exploring **Django, FastAPI, Azure, Redis, System Design, SDLC.**
 - ⚡ Worked on **finance modules, booking validation services, and workflow automation**  

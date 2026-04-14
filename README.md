@@ -17,7 +17,7 @@
  ## 🚀 About Me
 
 
-I am a graduate in Information and Communication Technology (CGPA: 3.40/4.00) with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in Django, NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
+I am a graduate in Information and Communication Technology with a strong foundation in backend development, problem-solving, and scalable system design. My expertise lies in Django, NodeJS (Javascript), ExpressJS and RESTful APIs, which enables me to build robust, high-performance applications.
 
 🔹 Competitive Programming & DSA: Solved 350+ LeetCode problems (Top 51.47% with 10 Badges) and 800+ Codeforces problems, refining my skills in Array, Linked List, Sliding Windows, Graphs, Trees, DP, and Advanced Algorithms.
 
